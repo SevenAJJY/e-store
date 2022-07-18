@@ -1,0 +1,4 @@
+*.log
+sessions/
+icomoon/
+public/uploads/
